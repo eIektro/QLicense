@@ -1,2 +1,2 @@
 # QLicense
-.NET Painfull Licensing Software
+.NET Licensing Software
